@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Shop for Grocery](Shop-for-Grocery.html)
+[Shop for Grocery](Grocery.html)
 
 You can use the [editor on GitHub](https://github.com/132zoro/Grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
